@@ -1,3 +1,6 @@
 [submodule "lib/3rdparty/ElaWidgetTools"]
 	path = lib/3rdparty/ElaWidgetTools
 	url = https://github.com/GuainCN/ElaWidgetTools.git
+[submodule "lib/3rdparty/GmSSL"]
+	path = lib/3rdparty/GmSSL
+	url = https://github.com/guanzhi/GmSSL.git

@@ -13,7 +13,8 @@ CTestTestfile.cmake
 _deps
 
 # Clion CMake
-cmake-build-*/
+#cmake-build-*/
+**/cmake-build-*/
 
 #########################
 # CPP
