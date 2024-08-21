@@ -1,0 +1,3 @@
+[submodule "lib/3rdparty/ElaWidgetTools"]
+	path = lib/3rdparty/ElaWidgetTools
+	url = https://github.com/GuainCN/ElaWidgetTools.git
